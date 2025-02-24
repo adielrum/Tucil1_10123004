@@ -1,0 +1,8 @@
+Solution found:
+A G G G C 
+A A B C C 
+E E B B F 
+E E D F F 
+E D D F F 
+Total iterations: 118374
+Execution time: 1805 ms

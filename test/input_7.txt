@@ -1,0 +1,17 @@
+5 5 4
+CUSTOM
+..X..
+.XXX.
+XXXXX
+.XXX.
+..X..
+A
+AA
+A 
+B
+BB
+CCC
+D
+DD
+
+

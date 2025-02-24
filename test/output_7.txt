@@ -1,0 +1,8 @@
+Solution found:
+. . B . . 
+. B B A . 
+C C C A A 
+. D D A . 
+. . D . . 
+Total iterations: 194
+Execution time: 47 ms

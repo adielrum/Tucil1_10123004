@@ -1,0 +1,8 @@
+Solution found:
+C C E D D 
+C . . . D 
+F . . . G 
+A . . . B 
+A A H B B 
+Total iterations: 8
+Execution time: 25 ms
